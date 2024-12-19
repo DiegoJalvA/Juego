@@ -32,11 +32,11 @@ memory-card-game/
 
 
 ## 👾 Captura de pantalla
-![Memory Card Game](https://github.com/DiegoJalvA/Juego/blob/main/juego/screenshot.png)  
+![Memory Card Game](https://github.com/DiegoJalvA/Juego/blob/index/juego/screenshot.png)  
 
 
 ## 🔗 Enlace al proyecto
-[Juega aquí](https://tu-usuario.github.io/memory-card-game/) 
+[Juega aquí](https://memoycardgame.netlify.app) 
 
 
 ## ©️ Créditos
